@@ -7,7 +7,7 @@
 * Upon choosing a classmate to meet with, a new map will populate with study spots between the two of users.
 
 
-see <a href="https://sue-hntr.github.io/Project-One/">
+see https://sue-hntr.github.io/Project-One/
   
   http://github.com - automatic!
 [GitHub](http://github.com)
