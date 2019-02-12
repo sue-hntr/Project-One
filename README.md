@@ -8,6 +8,3 @@
 
 
 see https://sue-hntr.github.io/Project-One/
-  
-  http://github.com - automatic!
-[GitHub](http://github.com)
